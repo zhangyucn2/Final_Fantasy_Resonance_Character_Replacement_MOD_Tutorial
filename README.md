@@ -1,0 +1,2 @@
+# Final_Fantasy_Resonance_Character_Replacement_MOD_Tutorial
+A simple guideline for FFRS modding
