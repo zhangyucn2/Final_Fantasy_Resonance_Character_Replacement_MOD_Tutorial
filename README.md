@@ -168,7 +168,7 @@ Use `retoc` to package the cleaned files back into Zen/IoStore format:
 retoc to-zen <Output Directory> <MOD Directory>\MOD_Name_P.utoc --version UE5_6
 ```
 
-## 11. MOD is Complete
+## 11. Final Check
 
 If everything goes correctly, the MOD is now complete.
 
@@ -178,13 +178,7 @@ The final package should contain **three files(.pak/.utoc/.ucas)**.
 
 Installation is straightforward.
 
-Copy the three generated MOD files into the game's:
-
-```text
-Content\Paks
-```
-
-directory.
+Copy the three generated MOD files into the game's **Content\Paks** directory.
 
 ---
 
